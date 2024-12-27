@@ -72,7 +72,7 @@ The project is divided into multiple modules:
 ![Training Loss](https://github.com/user-attachments/assets/d986c973-1875-4490-8be5-6644b054ba4d)  
 
 #### 📈 Log-Transformed Distribution of Charges  
-![Distribution](https://github.com/user-attachments/assets/306f5ab0-412d-4888-a3d5-117488a8f65d)  
+![Distribution](![Modelling Plot 2](https://github.com/user-attachments/assets/e26f96ab-a282-4585-bdc4-9556d6c9e255))  
 
 ---
 
