@@ -69,10 +69,10 @@ The project is divided into multiple modules:
 ### 📊 Visualizations  
 
 #### 📉 Training and Validation Loss  
-![Training Loss](https://github.com/user-attachments/assets/d986c973-1875-4490-8be5-6644b054ba4d)  
+![Training and Validation Loss](https://github.com/user-attachments/assets/d986c973-1875-4490-8be5-6644b054ba4d)  
 
-#### 📈 Log-Transformed Distribution of Charges  
-(https://github.com/user-attachments/assets/e26f96ab-a282-4585-bdc4-9556d6c9e255))  
+#### 📉 Training and Validation Loss  
+![Training and Validation Loss](https://github.com/user-attachments/assets/d986c973-1875-4490-8be5-6644b054ba4d)  
 
 ---
 
