@@ -66,7 +66,7 @@ The project is divided into multiple modules:
 
 ---
 
-### 📊 Visualizations  
+## 📊 Visualizations  
 
 #### 📉 Training and Validation Loss  
 ![Training and Validation Loss](https://github.com/user-attachments/assets/c77161d7-ae22-41ef-b160-e3388d36ec67)  
