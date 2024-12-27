@@ -71,8 +71,8 @@ The project is divided into multiple modules:
 #### 📉 Training and Validation Loss  
 ![Training and Validation Loss](https://github.com/user-attachments/assets/d986c973-1875-4490-8be5-6644b054ba4d)  
 
-#### 📉 Training and Validation Loss  
-![Training and Validation Loss](https://github.com/user-attachments/assets/d986c973-1875-4490-8be5-6644b054ba4d)  
+#### 📉 Histogram of Normal vs Anomalous Data
+![Histogram of Normal vs Anomalous Data](https://github.com/user-attachments/assets/d986c973-1875-4490-8be5-6644b054ba4d)  
 
 ---
 
