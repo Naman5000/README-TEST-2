@@ -1,8 +1,8 @@
 # 🌟 MediAlert: AI-Powered Anomaly Detection for Smarter Healthcare Insights 🌟  
 
-**🎓 Internship Program:** Infosys Springboard  
-**🌐 Domain:** Artificial Intelligence
-**📊 Dataset:** [Healthcare Providers Data](https://www.kaggle.com/datasets/tamilsel/healthcare-providers-data)  
+- **🎓 Internship Program:** Infosys Springboard
+- **🌐 Domain:** Artificial Intelligence
+- **📊 Dataset:** [Healthcare Providers Data](https://www.kaggle.com/datasets/tamilsel/healthcare-providers-data)  
 
 ---
 
