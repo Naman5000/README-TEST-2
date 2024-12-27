@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/59bbebb1-4a1f-4f2f-93e0-f40eb52d3cc0)# 🌟 MediAlert: AI-Powered Anomaly Detection for Smarter Healthcare Insights 🌟  
+🌟 MediAlert: AI-Powered Anomaly Detection for Smarter Healthcare Insights 🌟  
 
 **🎓 Internship Program:** Infosys Springboard  
 **📊 Dataset:** [Healthcare Providers Data](https://www.kaggle.com/datasets/tamilsel/healthcare-providers-data)  
